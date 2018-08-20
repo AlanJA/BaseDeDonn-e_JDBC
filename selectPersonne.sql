@@ -1,0 +1,2 @@
+SELECT *
+FROM BD_Formation.PERSONNE
